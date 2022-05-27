@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.flexiblecontainer {
+    @apply flex justify-center items-center;
+}
+.sign-in-flex-pattern { @apply p-0 flex flex-col items-start justify-center;}
+
+.sign-in-textfield {@apply font-normal text-[14px] flex flex-row items-center px-[16px] py-[12px] sm:w-[400px] w-[300px] h-[44px] rounded-[8px] border-[1px] border-[#E5EBF5];}
+
+.sign-in-labels{@apply font-semibold text-[14px] leading-[20px] text-[#394C66] block}
+
+.main-menu-button{@apply w-[40px] h-[40px] flex items-center justify-center}
+    
