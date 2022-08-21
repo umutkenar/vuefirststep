@@ -13,7 +13,6 @@
       </a>
     </div>
 
-    <!-- vue tip tap bak -->
     <h1>new mail componentt</h1>
     <div v-if="editor">
       <button

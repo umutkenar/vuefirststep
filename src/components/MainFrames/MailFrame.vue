@@ -4,7 +4,6 @@
     <div
       class="bg-white border-b-[1px] w-full h-14 flex items-center justify-between"
     >
-      <!--top bar-->
       <div class="flex">
         <div class="flex items-center">
           <a

@@ -168,7 +168,6 @@ export default {
           <div
             class="flex flex-col justify-center items-center gap-[24px] sm:w-[400px] w-[300px]"
           >
-            <!--sign_in bottom frame-->
             <a
               href="#"
               id="signinbutton"
