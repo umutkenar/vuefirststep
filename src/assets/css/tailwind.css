@@ -13,5 +13,10 @@
 
 .sign-in-labels{@apply font-semibold text-[14px] leading-[20px] text-[#394C66] block}
 
-.main-menu-button{@apply w-[40px] h-[40px] flex items-center justify-center}
-    
+.main-menu-button{@apply w-[40px] h-[40px] flex items-center justify-center rounded-[8px]}
+
+.new_mail_button{@apply flex flex-row items-center justify-center w-[90%] h-[36px] bg-[#3663F2] rounded-lg mt-[12px] mb-[12px] font-semibold text-[14px] text-white cursor-pointer}
+ 
+.mail_menu_buttons {@apply w-full h-[36px] p-[18px] text-[#394C66] text-[14px] font-semibold flex flex-row items-center cursor-pointer}
+
+.mail_menu_buttons img {@apply mr-[4px]}
