@@ -12,8 +12,6 @@
         <img src="../assets/images/sign_in/button.png" alt="close_btn" />
       </a>
     </div>
-
-    <h1>new mail componentt</h1>
     <div v-if="editor">
       <button
         @click="editor.chain().focus().toggleBold().run()"
